@@ -2,14 +2,14 @@
 import 'dart:io';
 void main() {
   //Câu 1
-  print("Nguyen Thanh Phong");
+  print("Nguyen Trong Dat");
   //Câu 2
   print("Hello I am \"John Doe\" ");
   print("Hello I\'m \"John Doe\" ");
   //Câu 3
   const int abcd = 8;
   //Câu 4
-  int p =7,t= 100, r=6;
+  int p = 4, t = 100, r = 6;
   double Formula = (p*t*r)/100;
   print(Formula);
   //Câu 5
